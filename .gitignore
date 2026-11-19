@@ -1,0 +1,36 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE and generated solution files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.unityproj
+*.tmp
+
+# Python environment and caches
+venv/
+__pycache__/
+*.py[cod]
+
+# ML training artifacts and large archives
+results/
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
